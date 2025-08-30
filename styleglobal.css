@@ -22,7 +22,7 @@ header{
     padding: 10px 20px ;
     display: flex;
     align-items: center;
-    background-image: url(image/img-2.jpg);
+    background-image: url(img-2.jpg);
     background-size:cover;
     background-position:center;
     min-height: 100vh;
@@ -721,3 +721,4 @@ p{
         
     }
 }
+
